@@ -49,6 +49,7 @@ class App extends React.Component{
         lata: cityData.data[0].lat
       })
       await this.getWeather(cityData.data[0].lat, cityData.data[0].lon);
+      await this.getMovie(this.state.searchCity);
     } catch (error) {
       this.setState({
           error: true,

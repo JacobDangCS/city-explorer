@@ -28,6 +28,28 @@
 
 ## Start time: 5pm
 
-## Finish time: _____
+## Finish time: 7pm
 
-## Actual time needed to complete: _____
+## Actual time needed to complete: 2 hours
+
+
+![Click to Open Lab7 Diagram](public/Lab_7_Diagram.png "First Lab Diagram")
+## Name of feature: Lab 7
+## Estimate of time needed to complete: 1 hour
+
+## Start time: 2pm
+
+## Finish time: 5pm
+
+## Actual time needed to complete: 3 hours
+
+
+![Click to Open Lab8 Diagram](public/Lab_8_Diagram.png "First Lab Diagram")
+## Name of feature: Lab 8
+## Estimate of time needed to complete: 3 hours
+
+## Start time: 4pm
+
+## Finish time: 6pm
+
+## Actual time needed to complete: 2 hours

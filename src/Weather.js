@@ -1,23 +1,20 @@
 import React from 'react';
 
 
-class Weather extends React.Component{
+class Weather extends React.Component {
 
-    
-    render(){
-        let daysToRender = this.props.weatherDisplay.map((obj, i) => (
-            <div key={i}>
-            <p>{obj.date}</p>
-            <p>{obj.description}</p>
-            </div>
-        ));
-        
-        return(
+    render() {
+        return (
             <>
-            {daysToRender}
+                {this.props.weatherDisplay.map((obj, i) => (
+                    <div key={i}>
+                        <p>{obj.date}</p>
+                        <p>{obj.description}</p>
+                    </div>
+                ))}
             </>
-            )
-        }
+        )
+    }
 }
 
 export default Weather;

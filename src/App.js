@@ -74,7 +74,7 @@ class App extends React.Component{
 
   getMovie = async (movieData) => {
     try {
-      let url = `${process.env.REACT_APP_SERVER}/movies?city=${movieData}`;
+      let url = `${process.env.REACT_APP_SERVER}/movie?cityName=${movieData}`;
       let movieResponse = await axios.get(url)
       this.setState({
         movie: movieResponse.data,

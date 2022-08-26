@@ -1,11 +1,11 @@
 import axios from 'axios';
 import './App.css';
 import React from 'react';
-import Weather from './Weather';
+import Weather from './Component/Weather';
 import Card from 'react-bootstrap/Card';
 import {Form} from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
-import Movie from './Movie';
+import Movie from './Component/Movie';
 
 //CALLS AND SETS STATES & FORM BELOW
 

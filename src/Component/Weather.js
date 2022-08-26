@@ -1,4 +1,5 @@
 import React from 'react';
+import WeatherDay from './WeatherDay';
 
 
 class Weather extends React.Component {
@@ -7,10 +8,11 @@ class Weather extends React.Component {
         return (
             <>
                 {this.props.weatherDisplay.map((obj, i) => (
-                    <div key={i}>
-                        <p>{obj.date}</p>
-                        <p>{obj.description}</p>
-                    </div>
+                    <WeatherDay
+                        key={i}
+                        date={obj.date}
+                        description={obj.description}
+                    />
                 ))}
             </>
         )

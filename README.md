@@ -33,7 +33,7 @@
 ## Actual time needed to complete: 2 hours
 
 
-![Click to Open Lab7 Diagram](public/Lab_7_Diagram.png "First Lab Diagram")
+![Click to Open Lab7 Diagram](public/Lab_7_Diagram.png "Second Lab Diagram")
 ## Name of feature: Lab 7
 ## Estimate of time needed to complete: 1 hour
 
@@ -44,7 +44,7 @@
 ## Actual time needed to complete: 3 hours
 
 
-![Click to Open Lab8 Diagram](public/Lab_8_Diagram.png "First Lab Diagram")
+![Click to Open Lab8 Diagram](public/Lab_8_Diagram.png "Third Lab Diagram")
 ## Name of feature: Lab 8
 ## Estimate of time needed to complete: 3 hours
 
@@ -53,3 +53,13 @@
 ## Finish time: 6pm
 
 ## Actual time needed to complete: 2 hours
+
+![Click to Open Lab9 Diagram](public/Lab_9_Diagram.png "Fourth Lab Diagram")
+## Name of feature: Lab 9
+## Estimate of time needed to complete: 1 hour
+
+## Start time: 2pm
+
+## Finish time: 3pm
+
+## Actual time needed to complete: 1 hour

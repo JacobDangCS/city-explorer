@@ -123,10 +123,11 @@ class App extends React.Component{
             Weather: {this.state.showWeather && <Weather weatherDisplay={this.state.weather}/>}
             <br/>
             <br/>
-            Errors: {this.state.error && <p>{this.state.error.message}</p>}
-            <br/>
-            <br/>
             Movie: {this.state.showMovie && <Movie movieDisplay={this.state.movie}/>}
+            <br/>
+            <br/>
+            Errors: {this.state.error && <p>{this.state.error.message}</p>}
+            
           </Card.Text>
 
         </Card.Body>
